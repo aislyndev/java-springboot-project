@@ -1,0 +1,10 @@
+package kodlama.io.rentACar.core.utilities.exceptions;
+
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class ProblemDetails {
+	String message;
+
+}
